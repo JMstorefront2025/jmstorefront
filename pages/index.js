@@ -1,4 +1,5 @@
-import JMStorefront from '../src/JMStorefront';
+import JMStorefront from "../src/JMStorefront";
+
 export default function Home() {
   return <JMStorefront />;
 }
